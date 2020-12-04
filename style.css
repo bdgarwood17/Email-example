@@ -10,6 +10,7 @@ section {
     display: flex;
     flex-direction: row-reverse;
     margin-bottom: 100px;
+    color: blue;
 }
 
 .item {
