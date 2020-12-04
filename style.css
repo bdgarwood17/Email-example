@@ -1,29 +1,15 @@
-main {
-    padding: 20px 0;
-}
-
-section {
-    margin-bottom: 100px;
-}
-
-.group {
+form label {
     display: block;
-    margin-bottom: 100px;
-    color: blueviolet;
-    font-family: 'Montserrat', sans-serif;
+}
+
+form input {
+    width: 50%;
+}
+
+form textarea {
     width: 100%;
 }
 
-.item {
-    flex: 1;
-    margin: 10px;
-    width: 100%;
-}
-
-form textarea{
-    width: 100%;
-}
-
-form div label {
-    width: 100%;
+form button {
+    display: block;
 }
