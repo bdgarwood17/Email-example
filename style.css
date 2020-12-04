@@ -9,6 +9,7 @@ form label {
 
 form input {
     width: 50%;
+    margin-bottom: 40px;
 }
 
 form textarea {
