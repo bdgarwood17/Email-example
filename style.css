@@ -8,9 +8,9 @@ section {
 
 .group {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: column;
     margin-bottom: 100px;
-    color: blue;
+    color: green;
     font-family: 'Montserrat', sans-serif;
 }
 
