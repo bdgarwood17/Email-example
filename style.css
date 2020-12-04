@@ -8,7 +8,7 @@ section {
 
 .group {
     display: flex;
-    flex-direction: column;
+    flex-direction: row-reverse;
     margin-bottom: 100px;
 }
 
