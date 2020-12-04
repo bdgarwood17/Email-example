@@ -19,3 +19,7 @@ section {
     flex: 1;
     margin: 10px;
 }
+
+form textarea{
+    width: 100%;
+}
