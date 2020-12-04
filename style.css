@@ -24,3 +24,7 @@ section {
 form textarea{
     width: 100%;
 }
+
+form label {
+    width: 100%;
+}
