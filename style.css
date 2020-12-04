@@ -9,6 +9,7 @@ section {
 .group {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     margin-bottom: 100px;
     color: green;
     font-family: 'Montserrat', sans-serif;
@@ -17,5 +18,4 @@ section {
 .item {
     flex: 1;
     margin: 10px;
-    justify-content: center;
 }
